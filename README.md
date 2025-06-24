@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! My name is Ananda dev nath.</h2>
-![Image](https://github.com/user-attachments/assets/7829d713-d14b-4191-a2f8-2779b0831534)
+(https://github.com/user-attachments/assets/7829d713-d14b-4191-a2f8-2779b0831534)
 
 ###
 
