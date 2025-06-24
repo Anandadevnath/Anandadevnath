@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Ananda dev nath.</h2>
 
-![Screenshot 2025-06-25 021154](https://github.com/user-attachments/assets/0447bac7-2065-4a47-84d4-30d1aed54c42)
+![0d5bbf30-6fd5-4091-a11f-0bbf04a6c6ad](https://github.com/user-attachments/assets/f4475596-f8fb-4be1-8fdf-f8e65015a1df)
 
 <p align="left">👨🏻‍💻 I’m a Second-year bachelor's student studying Bachelor of Science in Computer Science and Engineering at the East Delta Univarsity.<br><br>🔬 My interests are in Backend, linux and game development<br><br>📚 I am also interested in open source softwares and contibute to other codes</p>
 
