@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! My name is Ananda dev nath.</h2>
-![Alt Text](![Alt Text](https://github.com/username/repo/blob/main/image.png?raw=true)?raw=true)
+![Alt Text](https://github.com/Anandadevnath/Anandadevnath/blob/main/Screenshot%202025-06-25%20021154.png)
 
 ###
 
