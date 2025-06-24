@@ -2,14 +2,14 @@
 
 ###
 
+<p align="left">👨🏻‍💻 I’m a Second-year bachelor's student studying Bachelor of Science in Computer Science and Engineering at the East Delta Univarsity.<br><br>🔬 My interests are in Backend, linux and game development<br><br>📚 I am also interested in open source softwares and contibute to other codes</p>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anandadevnath&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anandadevnath&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
@@ -47,11 +47,5 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Anandadevnath/Anandadevnath/output/snake.svg" alt="Snake animation" />
 
 ###
