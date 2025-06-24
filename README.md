@@ -1,4 +1,4 @@
-<h2 align="left">I'm Ananda dev nath a frontend developer</h2>
+<h2 align="left">I'm Ananda dev nath a fullstack developer</h2>
 
 ![68747470733a2f2f67696666696c65732e616c706861636f646572732e636f6d2f3232302f3232303233342e676966](https://github.com/user-attachments/assets/a7a5ff4a-e928-43e0-9ffa-3f8c270bdbf5)
 
