@@ -40,6 +40,11 @@
 ###
 
 <div align="left">
+
+<a href="https://www.facebook.com/ananda.dev.nath.541359" target="_blank" style="display: inline-block;">
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
+</a>
+  
 <a href="https://x.com/AnandaDevNath" target="_blank" style="display: inline-block;">
   <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="x logo" />
 </a>
