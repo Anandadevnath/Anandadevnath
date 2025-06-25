@@ -1,6 +1,6 @@
 <h2 align="left">I'm Ananda dev nath a fullstack developer</h2>
 
-![68747470733a2f2f67696666696c65732e616c706861636f646572732e636f6d2f3232302f3232303233342e676966](https://github.com/user-attachments/assets/a7a5ff4a-e928-43e0-9ffa-3f8c270bdbf5)
+![Screenshot 2025-06-26 013744](https://github.com/user-attachments/assets/525e2f58-718f-4b3a-8d99-e20345c3a6c1)
 
 <p align="left">👨🏻‍💻 I’m a Second-year bachelor's student studying Bachelor of Science in Computer Science and Engineering at the East Delta Univarsity.<br><br>🔬 My interests are in Backend, linux and game development<br><br>📚 I am also interested in open source softwares and contibute to other codes</p>
 
