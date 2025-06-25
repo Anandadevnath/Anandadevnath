@@ -1,0 +1,37 @@
+name: Update Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs daily at midnight UTC
+  workflow_dispatch:      # Allows manual triggering
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate snake animation
+        uses: Platane/snk@master
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          svg_out_path: assets/github-contribution-grid-snake.svg
+          gif_out_path: assets/github-contribution-grid-snake.gif
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Update README
+        run: |
+          sed -i '/<!-- START_SNAKE -->/,/<!-- END_SNAKE -->/c\
+          <!-- START_SNAKE -->\
+          ![Contribution Snake](https://raw.githubusercontent.com/${{ github.repository_owner }}/${{ github.repository_owner }}/main/assets/github-contribution-grid-snake.svg)\
+          <!-- END_SNAKE -->' README.md
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Update snake animation"
+          branch: main
