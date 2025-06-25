@@ -18,20 +18,23 @@ jobs:
       - name: Generate snake animation
         uses: Platane/snk@master
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: "Anandadevnath"  # Explicitly using your username
           svg_out_path: assets/github-contribution-grid-snake.svg
           gif_out_path: assets/github-contribution-grid-snake.gif
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          snake_color: "00FF00"  # Green snake
+          snake_outline: "000000" # Black outline
+          background: "transparent"
 
       - name: Update README
         run: |
           sed -i '/<!-- START_SNAKE -->/,/<!-- END_SNAKE -->/c\
           <!-- START_SNAKE -->\
-          ![Contribution Snake](https://raw.githubusercontent.com/${{ github.repository_owner }}/${{ github.repository_owner }}/main/assets/github-contribution-grid-snake.svg)\
+          ![Ananda Devnath\'s Contribution Snake](https://raw.githubusercontent.com/Anandadevnath/Anandadevnath/main/assets/github-contribution-grid-snake.svg)\
           <!-- END_SNAKE -->' README.md
 
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "Update snake animation"
+          commit_message: "Update Ananda's snake animation"
           branch: main
