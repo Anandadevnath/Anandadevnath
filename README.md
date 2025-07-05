@@ -6,18 +6,11 @@
 
 ---
 
-### 🧑‍💻 About Me
-
-- 🎓 I'm a 2nd-year Computer Science student at **East Delta University**
-- 💼 I enjoy working on **full stack projects**, exploring **Linux systems**, and **developing games**
-- 🌱 Currently learning **Rust**, **system design**, and **3D game engines**
-- 🤝 I love collaborating on open-source projects and improving existing codebases
-
----
-
-### 🛠️ Tech Stack
-
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,git,github,linux,bash,vscode)
+```bash
+Second-year CSE student @ East Delta University
+Loves backend, Linux, and building games
+Inspired by anime logic, strategy, and growth
+```
 
 ---
 
@@ -32,30 +25,8 @@
 
 ---
 
-### 🐍 Contribution Activity
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Anandadevnath/Anandadevnath/output/snake.svg" alt="Snake animation" width="100%"/>
 </p>
 
 ---
-
-### 🌐 Visitor Count
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Anandadevnath&icon=0&color=6" alt="Visitor Count"/>
-  </a>
-</p>
-
----
-
-### 🚀 Let's Connect
-
-- 🧾 [LinkedIn](https://www.linkedin.com/in/your-profile/)  
-- 🛠️ [Portfolio](https://your-portfolio.com)  
-- 📫 Email: your.email@example.com
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
