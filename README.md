@@ -1,10 +1,7 @@
-<h2 align="center">👋 Hi, I'm Ananda Dev Nath — Full Stack Developer</h2>
+<div align="center">
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/525e2f58-718f-4b3a-8d99-e20345c3a6c1" width="60%" alt="Banner"/>
-</p>
+<img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
 
----
 
 ```bash
 Second-year CSE student @ East Delta University
@@ -29,3 +26,4 @@ Inspired by anime logic, strategy, and growth
 </p>
 
 ---
+</div>
