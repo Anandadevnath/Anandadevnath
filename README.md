@@ -21,6 +21,12 @@ Anime-Inspired: Code like L, strategize like Light, grow like Goku
 
 ---
 
+```bash
+# Tech Stack
+BACKEND= "Node.js | Express | MongoDB"
+FRONTEND= "React.js | Next.js | TailwindCSS"
+```
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Anandadevnath/Anandadevnath/output/snake.svg" alt="Snake animation" width="100%"/>
 </p>
