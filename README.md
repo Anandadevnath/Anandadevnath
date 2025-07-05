@@ -21,7 +21,6 @@ Learning: Algorithms, Distributed Systems, DevOps (K8s, Docker)
 ---
 
 ```bash
-# Tech Stack
 BACKEND= "Node.js | Express | MongoDB"
 FRONTEND= "React.js | Next.js | TailwindCSS"
 ```
