@@ -29,5 +29,4 @@ FRONTEND= "React.js | Next.js | TailwindCSS"
   <img src="https://raw.githubusercontent.com/Anandadevnath/Anandadevnath/output/snake.svg" alt="Snake animation" width="100%"/>
 </p>
 
----
 </div>
