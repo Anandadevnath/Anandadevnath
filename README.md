@@ -8,7 +8,6 @@ Computer science student @ East Delta University
 Backend Development: APIs, Databases, Scalability, System Design  
 Linux & Open Source: Contributing to FOSS, Scripting, SysAdmin  
 Learning: Algorithms, Distributed Systems, DevOps (K8s, Docker)  
-Anime-Inspired: Code like L, strategize like Light, grow like Goku  
 ```
 
 ---
