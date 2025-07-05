@@ -2,7 +2,11 @@
 
 ![Screenshot 2025-06-26 013744](https://github.com/user-attachments/assets/525e2f58-718f-4b3a-8d99-e20345c3a6c1)
 
-<p align="left">👨🏻‍💻 I’m a Second-year bachelor's student studying Bachelor of Science in Computer Science and Engineering at the East Delta Univarsity.<br><br>🔬 My interests are in Backend, linux and game development<br><br>📚 I am also interested in open source softwares and contibute to other codes</p>
+<p align="left">
+  👨🏻‍💻 I’m a Second-year bachelor's student studying Bachelor of Science in Computer Science and Engineering at the East Delta Univarsity.<br>
+  <br>🔬 My interests are in Backend, linux and game development<br>
+  <br>📚 I am also interested in open source softwares and contibute to other codes
+</p>
 
 ###
 
