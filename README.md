@@ -11,8 +11,6 @@ Inspired by anime logic, strategy, and growth
 
 ---
 
-### 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anandadevnath&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Anandadevnath&theme=github_dark&hide_border=false" width="49%" alt="GitHub Streak"/>
