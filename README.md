@@ -1,21 +1,61 @@
-<h2 align="left">I'm Ananda dev nath a fullstack developer</h2>
+<h2 align="center">👋 Hi, I'm Ananda Dev Nath — Full Stack Developer</h2>
 
-![Screenshot 2025-06-26 013744](https://github.com/user-attachments/assets/525e2f58-718f-4b3a-8d99-e20345c3a6c1)
-
-<p align="left">
-  👨🏻‍💻 I’m a Second-year bachelor's student studying Bachelor of Science in Computer Science and Engineering at the East Delta Univarsity.<br>
-  <br>🔬 My interests are in Backend, linux and game development<br>
-  <br>📚 I am also interested in open source softwares and contibute to other codes
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/525e2f58-718f-4b3a-8d99-e20345c3a6c1" width="60%" alt="Banner"/>
 </p>
 
-###
+---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Anandadevnath&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Anandadevnath&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anandadevnath&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 🧑‍💻 About Me
+
+- 🎓 I'm a 2nd-year Computer Science student at **East Delta University**
+- 💼 I enjoy working on **full stack projects**, exploring **Linux systems**, and **developing games**
+- 🌱 Currently learning **Rust**, **system design**, and **3D game engines**
+- 🤝 I love collaborating on open-source projects and improving existing codebases
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Anandadevnath&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img src="https://raw.githubusercontent.com/Anandadevnath/Anandadevnath/output/snake.svg" width = 1500 alt="Snake animation" />
+### 🛠️ Tech Stack
+
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,git,github,linux,bash,vscode)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anandadevnath&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Anandadevnath&theme=github_dark&hide_border=false" width="49%" alt="GitHub Streak"/>
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anandadevnath&theme=github_dark&hide_border=false&layout=compact" width="49%" alt="Top Languages"/>
+</p>
+
+---
+
+### 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anandadevnath/Anandadevnath/output/snake.svg" alt="Snake animation" width="100%"/>
+</p>
+
+---
+
+### 🌐 Visitor Count
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Anandadevnath&icon=0&color=6" alt="Visitor Count"/>
+  </a>
+</p>
+
+---
+
+### 🚀 Let's Connect
+
+- 🧾 [LinkedIn](https://www.linkedin.com/in/your-profile/)  
+- 🛠️ [Portfolio](https://your-portfolio.com)  
+- 📫 Email: your.email@example.com
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
