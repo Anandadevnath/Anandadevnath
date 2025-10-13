@@ -25,9 +25,4 @@ LANGUAGE= "C++ | C# | C | Javascript | HTML | CSS"
 BACKEND= "Node.js | Express | MongoDB"
 FRONTEND= "React.js | Next.js | TailwindCSS"
 ```
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anandadevnath/Anandadevnath/output/snake.svg" alt="Snake animation" width="100%"/>
-</p>
-
 </div>
