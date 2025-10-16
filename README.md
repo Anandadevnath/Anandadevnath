@@ -1,7 +1,6 @@
 <div align="center">
-
-<img src="https://i.postimg.cc/rz65Vby3/c582a8e0bea2bec0869ca1d5664fdbca.jpg" width="25%" align="right" />
-
+  
+<img width="525" height="859" alt="Screenshot 2025-10-16 205129" src="https://github.com/user-attachments/assets/0e0ffd1b-e830-4a51-b54a-fa5e7e7345a8" />
 
 ```bash
 Computer science student @ East Delta University
