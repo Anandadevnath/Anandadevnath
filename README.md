@@ -16,7 +16,7 @@ Learning: Algorithms, Distributed Systems, DevOps (K8s, Docker)
 
 ---
 ```bash
-LANGUAGE= "C++ | C# | C | Javascript | HTML | CSS"
+LANGUAGE= "C++ | C# | C | Javascript"
 BACKEND= "Node.js | Express | MongoDB"
 FRONTEND= "React.js | Next.js | TailwindCSS"
 ```
