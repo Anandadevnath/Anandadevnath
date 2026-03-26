@@ -10,6 +10,7 @@
 - 🎬 **[Proxy-m3u8](https://github.com/Anandadevnath/Proxy-m3u8)** — A lightweight Node.js proxy server for HLS streaming.
 - 🎓 **[Tutor Connect](https://github.com/Anandadevnath/Tutor-Connect-Client)** — A platform for connecting tutors and learners online.
 - 💬 **[Chat App](https://github.com/Anandadevnath/Chat-App-Mern-stack)** — A real-time chat application built with the MERN stack.
+- 💬 **[HarvestGuard](https://github.com/Anandadevnath/Hackethon-Client-Side)** — It is a climate-aware crop safety platform.
 
 </td>
 <td width="32%" align="center" valign="top">
