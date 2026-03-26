@@ -41,8 +41,6 @@
 
 </div>
 
----
-
 <div align="center">
 
 ```text
