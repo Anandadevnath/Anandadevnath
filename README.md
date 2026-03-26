@@ -15,7 +15,7 @@ Learning: Algorithms, Distributed Systems, DevOps (K8s, Docker)
 
 - 🦞 **[Shirayuki](https://openclaw.ai)** — the AI that actually does things  
 - 🎚️ **[Shirayuki Scrapper V1](https://github.com/steipete/CodexBar)** — May your tokens never run out—keep agent limits in view  
-- 👉 **[Shirayuki Scrapper V2](https://github.com/steipete/summarize)** — Point at any URL or file. Get the gist  
+- 👉 **[Shirayuki Scrapper V2](https://github.com/steipete/summarize)** — This scraper is an extended version of the Aniwatch scraper.
 
 </td>
 <td width="28%" align="right" valign="top">
