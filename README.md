@@ -15,6 +15,7 @@
 - 💬 **[Pokémon API](https://github.com/Anandadevnath/Pokemon-App)** — This project leverages the Pokémon API
 - 💬 **[Spotify Clone](https://github.com/Anandadevnath/Spotify-music)** — A simple and dynamic Spotify clone built
 - 💬 **[Weather-App](https://github.com/Anandadevnath/Weather-App-React-API)** — A simple weather application that fetches real-time weather data using a weather API.
+- 💬 **[MSG](https://github.com/Anandadevnath/MSG)** — This is a simple C++ game that allows you to play two different games: a Pokemon catching and battling game, and a Tic-Tac-Toe game.
 
 </td>
 <td width="32%" align="center" valign="top">
