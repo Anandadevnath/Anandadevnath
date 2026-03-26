@@ -13,7 +13,7 @@
 - 💬 **[HarvestGuard](https://github.com/Anandadevnath/Hackethon-Client-Side)** — It is a climate-aware crop safety platform.
 - 💬 **[RoommateFinder](https://github.com/Anandadevnath/Roommate-Nest-Client-side)** — A modern web application designed to help users find compatible roommates and manage roommate listings with ease.
 - 💬 **[Pokémon API](https://github.com/Anandadevnath/Pokemon-App)** — This project leverages the Pokémon API
-- 💬 **[Spotify Clone](https://github.com/Anandadevnath/Spotify-music)** — A simple and dynamic Spotify clone built with Html, CSS and Javascript
+- 💬 **[Spotify Clone](https://github.com/Anandadevnath/Spotify-music)** — A simple and dynamic Spotify clone built
 
 </td>
 <td width="32%" align="center" valign="top">
