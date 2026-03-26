@@ -12,7 +12,7 @@
 - 💬 **[Chat App](https://github.com/Anandadevnath/Chat-App-Mern-stack)** — A real-time chat application built with the MERN stack.
 - 💬 **[HarvestGuard](https://github.com/Anandadevnath/Hackethon-Client-Side)** — It is a climate-aware crop safety platform.
 - 💬 **[RoommateFinder](https://github.com/Anandadevnath/Roommate-Nest-Client-side)** — A modern web application designed to help users find compatible roommates and manage roommate listings with ease.
-- 💬 **[Pokémon API](https://github.com/Anandadevnath/Pokemon-App)** — This project leverages the Pokémon API — a unique, comprehensive API that integrates multiple data sources related to the Pokémon universe into a single API.
+- 💬 **[Pokémon API](https://github.com/Anandadevnath/Pokemon-App)** — This project leverages the Pokémon API
 
 </td>
 <td width="32%" align="center" valign="top">
