@@ -14,8 +14,8 @@ Learning: Algorithms, Distributed Systems, DevOps (K8s, Docker)
 ## 🔗 Current Projects
 
 - ❄️ **[Shirayuki](https://openclaw.ai)** — Shirayuki is a modern anime streaming anime platform 
-- 👉 **[Shirayuki Scrapper V1](https://github.com/Anandadevnath/Shirayuki-Scrapper-API-V2)** — It is a anime scraping API of [123anime](https://123animehub.cc)
-- 👉 **[Shirayuki Scrapper V2](https://github.com/steipete/summarize)** — This scraper is an version of [Aniwatch](https://aniwatchtv.to/).
+- 👉 **[Shirayuki Scrapper V1](https://github.com/Anandadevnath/Shirayuki-Scrapper-API-V1)** — It is a anime scraping API of [123anime](https://123animehub.cc)
+- 👉 **[Shirayuki Scrapper V2](https://github.com/Anandadevnath/Shirayuki-Scrapper-API-V2)** — This scraper is an version of [Aniwatch](https://aniwatchtv.to/).
 
 </td>
 <td width="28%" align="right" valign="top">
