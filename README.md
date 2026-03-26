@@ -14,8 +14,8 @@ Learning: Algorithms, Distributed Systems, DevOps (K8s, Docker)
 ## 🔗 Current Projects
 
 - 🦞 **[Shirayuki](https://openclaw.ai)** — the AI that actually does things  
-- 🎚️ **[Shirayuki Scrapper V1](https://github.com/steipete/CodexBar)** — May your tokens never run out—keep agent limits in view  
-- 👉 **[Shirayuki Scrapper V2](https://github.com/steipete/summarize)** — This scraper is an version of Aniwatch scraper.
+- 🎚️ **[Shirayuki Scrapper V1](https://github.com/steipete/CodexBar)** — It is a anime scraping API of [123anime](https://123animehub.cc/)
+- 👉 **[Shirayuki Scrapper V2](https://github.com/steipete/summarize)** — This scraper is an version of [Aniwatch](https://aniwatchtv.to/).
 
 </td>
 <td width="28%" align="right" valign="top">
