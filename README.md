@@ -14,6 +14,7 @@
 - 💬 **[RoommateFinder](https://github.com/Anandadevnath/Roommate-Nest-Client-side)** — A modern web application designed to help users find compatible roommates and manage roommate listings with ease.
 - 💬 **[Pokémon API](https://github.com/Anandadevnath/Pokemon-App)** — This project leverages the Pokémon API
 - 💬 **[Spotify Clone](https://github.com/Anandadevnath/Spotify-music)** — A simple and dynamic Spotify clone built
+- 💬 **[Weather-App](https://github.com/Anandadevnath/Weather-App-React-API)** — A simple weather application that fetches real-time weather data using a weather API.
 
 </td>
 <td width="32%" align="center" valign="top">
