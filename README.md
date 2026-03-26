@@ -9,7 +9,6 @@
 - 🔥 **[Shirayuki Scraper V2](https://github.com/Anandadevnath/Shirayuki-Scrapper-API-V2)** — An upgraded anime scraping API inspired by Aniwatch.
 
 ## 🌸 More Projects
-- ❄️ **[Shirayuki](https://github.com/Anandadevnath/Shirayuki)** — A modern anime streaming platform built for speed, style, and scalability.
 - ⚡ **[Shirayuki Scraper V1](https://github.com/Anandadevnath/Shirayuki-Scrapper-API-V1)** — A fast anime scraping API powered by 123anime.
 - 🎬 **[Proxy-m3u8](https://github.com/Anandadevnath/Proxy-m3u8)** — A lightweight Node.js proxy for handling HLS streams.
 - 🎓 **[Tutor Connect](https://github.com/Anandadevnath/Tutor-Connect-Client)** — A platform that connects tutors and learners in one place.
