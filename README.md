@@ -2,20 +2,23 @@
 <tr>
 <td width="68%" valign="top">
 
-## 🌸 Current Projects
+## 🌸 Main Projects
 
-- ❄️ **[Shirayuki](https://github.com/Anandadevnath/Shirayuki)** — A modern anime streaming platform built with a clean and scalable architecture.
-- ⚡ **[Shirayuki Scraper V1](https://github.com/Anandadevnath/Shirayuki-Scrapper-API-V1)** — Anime scraping API powered by [123anime](https://123animehub.cc).
-- 🔥 **[Shirayuki Scraper V2](https://github.com/Anandadevnath/Shirayuki-Scrapper-API-V2)** — An anime scraping API inspired by [Aniwatch](https://aniwatchtv.to/).
-- 🎬 **[Proxy-m3u8](https://github.com/Anandadevnath/Proxy-m3u8)** — A lightweight Node.js proxy server for HLS streaming.
-- 🎓 **[Tutor Connect](https://github.com/Anandadevnath/Tutor-Connect-Client)** — A platform for connecting tutors and learners online.
-- 💬 **[Chat App](https://github.com/Anandadevnath/Chat-App-Mern-stack)** — A real-time chat application built with the MERN stack.
-- 💬 **[HarvestGuard](https://github.com/Anandadevnath/Hackethon-Client-Side)** — It is a climate-aware crop safety platform.
-- 💬 **[RoommateFinder](https://github.com/Anandadevnath/Roommate-Nest-Client-side)** — A modern web application designed to help users find compatible roommates and manage roommate listings with ease.
-- 💬 **[Pokémon API](https://github.com/Anandadevnath/Pokemon-App)** — This project leverages the Pokémon API
-- 💬 **[Spotify Clone](https://github.com/Anandadevnath/Spotify-music)** — A simple and dynamic Spotify clone built
-- 💬 **[Weather-App](https://github.com/Anandadevnath/Weather-App-React-API)** — A simple weather application that fetches real-time weather data using a weather API.
-- 💬 **[MSG](https://github.com/Anandadevnath/MSG)** — This is a simple C++ game that allows you to play two different games: a Pokemon catching and battling game, and a Tic-Tac-Toe game.
+- ❄️ **[Shirayuki](https://github.com/Anandadevnath/Shirayuki)** — A modern anime streaming platform with a clean and scalable architecture.
+- 🌾 **[HarvestGuard](https://github.com/Anandadevnath/Hackethon-Client-Side)** — A climate-aware platform designed to help protect crops.
+- 🔥 **[Shirayuki Scraper V2](https://github.com/Anandadevnath/Shirayuki-Scrapper-API-V2)** — An upgraded anime scraping API inspired by Aniwatch.
+
+## 🌸 More Projects
+- ❄️ **[Shirayuki](https://github.com/Anandadevnath/Shirayuki)** — A modern anime streaming platform built for speed, style, and scalability.
+- ⚡ **[Shirayuki Scraper V1](https://github.com/Anandadevnath/Shirayuki-Scrapper-API-V1)** — A fast anime scraping API powered by 123anime.
+- 🎬 **[Proxy-m3u8](https://github.com/Anandadevnath/Proxy-m3u8)** — A lightweight Node.js proxy for handling HLS streams.
+- 🎓 **[Tutor Connect](https://github.com/Anandadevnath/Tutor-Connect-Client)** — A platform that connects tutors and learners in one place.
+- 💬 **[Chat App](https://github.com/Anandadevnath/Chat-App-Mern-stack)** — A real-time chat app built with the MERN stack.
+- 🏠 **[RoommateFinder](https://github.com/Anandadevnath/Roommate-Nest-Client-side)** — A modern app for finding compatible roommates with ease.
+- ⚡ **[Pokémon API](https://github.com/Anandadevnath/Pokemon-App)** — A fun web app powered by the Pokémon API.
+- 🎵 **[Spotify Clone](https://github.com/Anandadevnath/Spotify-music)** — A sleek Spotify-inspired music player clone.
+- 🌦️ **[Weather App](https://github.com/Anandadevnath/Weather-App-React-API)** — A simple app for checking real-time weather updates.
+- 🎮 **[MSG](https://github.com/Anandadevnath/MSG)** — A C++ game project featuring Pokémon battles and Tic-Tac-Toe.
 
 </td>
 <td width="32%" align="center" valign="top">
