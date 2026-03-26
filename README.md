@@ -1,9 +1,12 @@
+<div align="center">
+
 ```bash
 Computer science student @ East Delta University
 Backend Development: APIs, Databases, Scalability, System Design
 Linux & Open Source: Contributing to FOSS, Scripting, SysAdmin
 Learning: Algorithms, Distributed Systems, DevOps (K8s, Docker)
 ```
+</div>
 
 ---
 
@@ -30,8 +33,13 @@ Learning: Algorithms, Distributed Systems, DevOps (K8s, Docker)
 
 ---
 
+<div align="center">
+
 ```bash
 LANGUAGE = "C++ | C# | C | JavaScript"
 BACKEND  = "Node.js | Express | MongoDB"
 FRONTEND = "React.js | Next.js | TailwindCSS"
 ```
+</div>
+
+---
