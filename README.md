@@ -21,8 +21,8 @@ Learning: Algorithms, Distributed Systems, DevOps (K8s, Docker)
 
 </td>
 <td width="25%" align="right" valign="top">
-
-![_](https://github.com/user-attachments/assets/c977967c-6f55-4120-b902-533a4d04811d)
+  
+![_ (1)](https://github.com/user-attachments/assets/4ecdb0b4-9065-41ca-b502-c0a4333bcfb4)
 
 </td>
 </tr>
