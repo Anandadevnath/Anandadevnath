@@ -23,9 +23,9 @@ Learning: Algorithms, Distributed Systems, DevOps (K8s, Docker)
 - 👉 **[Tutor Connect](https://github.com/Anandadevnath/Tutor-Connect-Client)** — It is an online platform for connecting tutors and learners.
 
 </td>
-<td width="80%" align="right" valign="top">
+<td width="28%" align="right" valign="top">
   
-![_ (1)](https://github.com/user-attachments/assets/4ecdb0b4-9065-41ca-b502-c0a4333bcfb4)
+![_](https://github.com/user-attachments/assets/5aefd246-c92e-42a7-950a-b51295d40ea6)
 
 </td>
 </tr>
