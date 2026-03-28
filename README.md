@@ -27,6 +27,7 @@
 - 🎵 **[Spotify Clone](https://github.com/Anandadevnath/Spotify-music)** — A sleek Spotify-inspired music player clone.
 - 🌦️ **[Weather App](https://github.com/Anandadevnath/Weather-App-React-API)** — A simple app for checking real-time weather updates.
 - 🎮 **[MSG](https://github.com/Anandadevnath/MSG)** — A C++ game project featuring Pokémon battles and Tic-Tac-Toe.
+- 🎮 **[AI Chat Bot](https://github.com/Anandadevnath/AI-Chat-Bot)** — This is an simple AI-powered chatbot built using the Gemini API.
 
 ---
 
