@@ -12,7 +12,7 @@
 
 - ❄️ **[Shirayuki](https://github.com/Anandadevnath/Shirayuki)** — A modern anime streaming platform with a clean and scalable architecture.
 - 🌾 **[HarvestGuard](https://github.com/Anandadevnath/Hackethon-Client-Side)** — A climate-aware platform designed to help protect crops.
-- 🔥 **[Shirayuki Scraper V2](https://github.com/Anandadevnath/Shirayuki-Scrapper-API-V2)** — An upgraded anime scraping API inspired by Aniwatch.
+- 🔥 **[Shirayuki Anime API](https://github.com/Anandadevnath/Shirayuki-Scrapper-API-V2)** — An upgraded anime scraping API inspired by Aniwatch.
 
 ---
 
