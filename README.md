@@ -10,7 +10,7 @@
 
 ## ⚔️ Main Projects
 
-- ❄️ **[Shirayuki](https://github.com/Anandadevnath/Shirayuki)** — A modern anime streaming platform with a clean and scalable architecture.
+- ❄️ **[Shirayuki](https://github.com/Anandadevnath/Shirayuki)** — Shirayuki - an anime Streaming website.
 - 🌾 **[HarvestGuard](https://github.com/Anandadevnath/Hackethon-Client-Side)** — A climate-aware platform designed to help protect crops.
 - 🔥 **[Shirayuki Anime API](https://github.com/Anandadevnath/Shirayuki-Scrapper-API-V2)** — An upgraded anime scraping API inspired by Aniwatch.
 
