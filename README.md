@@ -1,55 +1,41 @@
----
-
-<div align="center">
-
-![violet evergarden c_j](https://github.com/user-attachments/assets/ce735cb4-041f-4d13-ac32-d5d9f295d4f6)
-
-</div>
-
----
-
-## ⚔️ Main Projects
-
-- ❄️ **[Shirayuki](https://github.com/Anandadevnath/Shirayuki)** — Shirayuki - an anime Streaming website.
-- 🌾 **[HarvestGuard](https://github.com/Anandadevnath/Hackethon-Client-Side)** — A climate-aware platform designed to help protect crops.
-- 🔥 **[Shirayuki Anime API](https://github.com/Anandadevnath/Shirayuki-Scrapper-API-V2)** — An upgraded anime scraping API inspired by Aniwatch.
-
----
-
-## 🧩 More Projects
-
-- ⚡ **[Shirayuki Scraper V1](https://github.com/Anandadevnath/Shirayuki-Scrapper-API-V1)** — A fast anime scraping API powered by 123anime.
-- 🎬 **[Proxy-m3u8](https://github.com/Anandadevnath/Proxy-m3u8)** — A lightweight Node.js proxy for handling HLS streams.
-- 🎓 **[Tutor Connect](https://github.com/Anandadevnath/Tutor-Connect-Client)** — A platform that connects tutors and learners in one place.
-- 💬 **[Chat App](https://github.com/Anandadevnath/Chat-App-Mern-stack)** — A real-time chat app built with the MERN stack.
-- 🏠 **[RoommateFinder](https://github.com/Anandadevnath/Roommate-Nest-Client-side)** — A modern app for finding compatible roommates with ease.
-- ⚡ **[Pokémon API](https://github.com/Anandadevnath/Pokemon-App)** — A fun web app powered by the Pokémon API.
-- 🎵 **[Spotify Clone](https://github.com/Anandadevnath/Spotify-music)** — A sleek Spotify-inspired music player clone.
-- 🌦️ **[Weather App](https://github.com/Anandadevnath/Weather-App-React-API)** — A simple app for checking real-time weather updates.
-- 🎮 **[MSG](https://github.com/Anandadevnath/MSG)** — A C++ game project featuring Pokémon battles and Tic-Tac-Toe.
-- 🎮 **[AI Chat Bot](https://github.com/Anandadevnath/AI-Chat-Bot)** — This is an simple AI-powered chatbot built using the Gemini API.
-
----
-
-<div align="center">
-
-```text
-🎓 Computer Science Student @ East Delta University
-⚙️ Backend Development • APIs • Databases • Scalability • System Design
-🐧 Linux & Open Source • FOSS • Scripting • SysAdmin
-📚 Currently Learning • Algorithms • Distributed Systems • DevOps • K8s • Docker
 ```
+$ anandafetch
+            .-/+oossssoo+/-.                ananda@ubuntu
+        `:+ssssssssssssssssss+:`            -------------
+      -+ssssssssssssssssssyyssss+-          Name: Ananda Dev Nath
+    .ossssssssssssssssssdMMMNysssso.        OS: Ubuntu 26.04 LTS x86_64
+   /ssssssssssshdmmNNmmyNMMMMhssssss/       Location: Chattogram, Bangladesh
+  +ssssssssshmydMMMMMMMNddddyssssssss+      Role: Full-Stack Software Engineer (MERN + Next.js)
+ /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/     Uni: BSc in Computer Science @ East Delta University (2023 - 2027)
+.ssssssssdMMMNhsssssssssshNMMMdssssssss.    Experience: Frontend Developer Intern @ Job Notified (Jun - Jul 2025)
++sssshhhyNMMNyssssssssssssyNMMMysssssss+    Shell: bash
+ossyNMMMNyMMhsssssssssssssshmmmhssssssso    Editor: VS Code
+ossyNMMMNyMMhsssssssssssssshmmmhssssssso    Languages: JavaScript, TypeScript, C++, C
++sssshhhyNMMNyssssssssssssyNMMMysssssss+    Frontend: Next.js 15, React.js, Tailwind CSS, Framer Motion
+.ssssssssdMMMNhsssssssssshNMMMdssssssss.    Backend: Node.js, Express.js, REST APIs, Puppeteer, Cheerio
+ /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/     Databases: MongoDB, MySQL, Supabase
+  +sssssssssdmydMMMMMMMMddddyssssssss+      Deploy: Vercel, Railway, Netlify, Render
+   /ssssssssssshdmNNNNmyNMMMMhssssss/       Tools: Git, GitHub, Postman, Linux
+    .ossssssssssssssssssdMMMNysssso.        Learning: Distributed Systems, DevOps, K8s, Docker
+      -+sssssssssssssssssyyyssss+-          Hobby: Anime, Linux, Open Source
+        `:+ssssssssssssssssss+:`
+            .-/+oossssoo+/-.                projects
+                                            --------
+                                            Shirayuki: Next.js 15 anime streaming client with custom HLS proxy
+                                            Shirayuki API: Multi-provider anime metadata REST API
+                                            HarvestGuard: AI-powered smart agriculture platform (MERN)
 
-</div>
+                                            achievements
+                                            ------------
+                                            1st Place: SoSET Research Day (Senior), East Delta University
+                                            5th Place: East Delta University Hackathon
+                                            Codeforces: Ra-ccoonX (peak 801)
+                                            CodeChef: raccoonx (peak 913)
+                                            LeetCode: AnandadevNath (50+ solved)
 
-<div align="center">
-
-```text
-LANGUAGES = C++ | C# | C | JavaScript
-BACKEND   = Node.js | Express | MongoDB
-FRONTEND  = React.js | Next.js | TailwindCSS
+                                            contacts
+                                            --------
+                                            GitHub: github.com/Anandadevnath
+                                            Email: anandadevnath473@gmail.com
+                                            LinkedIn: linkedin.com/in/your-name
 ```
-
-</div>
-
----
