@@ -37,5 +37,5 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso    Languages: JavaScript, TypeScript, C
                                             --------
                                             GitHub: github.com/Anandadevnath
                                             Email: anandadevnath473@gmail.com
-                                            LinkedIn: linkedin.com/in/your-name
+                                            LinkedIn: [linkedin.com/in/your-name](https://www.linkedin.com/in/ananda-dev-nath-1808953a4/)
 ```
